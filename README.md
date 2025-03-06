@@ -1,9 +1,9 @@
 # Multilingual-PRM
 
 ## Data
-Multilingual PRM800K: [bigstupidhats/prm800k-phrase2](https://huggingface.co/datasets/bigstupidhats/prm800k-phrase2)
+Multilingual PRM800K: [bigstupidhats/prm800k-phrase2](https://huggingface.co/datasets/vicky23456/prm800k-phrase2)
 
-Multilingual Math Shepherd: [bigstupidhats/multilingual-mathshepherd](https://huggingface.co/datasets/bigstupidhats/multilingual-mathshepherd)
+Multilingual Math Shepherd: [bigstupidhats/multilingual-mathshepherd](https://huggingface.co/datasets/vicky23456/multilingual-mathshepherd)
 
 ### Citation
 If you find this work is useful or use the data in your work, please consider cite our paper:
