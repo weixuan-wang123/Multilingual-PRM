@@ -1,7 +1,7 @@
 # Multilingual-PRM
 
 ## Data
-Multilingual PRM800K: [vicky23456/prm800k-phrase2](https://huggingface.co/datasets/vicky23456/prm800k-phrase2)
+Multilingual PRM800K: [vicky23456/prm800k-phrase2](https://huggingface.co/datasets/vicky23456/multilingual-PRM800K)
 
 Multilingual Math Shepherd: [vicky23456/multilingual-mathshepherd](https://huggingface.co/datasets/vicky23456/multilingual-mathshepherd)
 
